@@ -5,4 +5,5 @@ When writing this code you didn't have to register for NASA API key, if you just
 
 2.1 version of EONET was used.  
 
-![tracking natural disasters](https://raw.githubusercontent.com/sagasu/nasa-natural-disasters/master/tracking-disasters.png)
+![tracking natural disasters](https://raw.githubusercontent.com/sagasu/nasa-natural-disasters/main/tracking-disasters.png)
+
